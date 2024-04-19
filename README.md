@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Welcome to Our Farm</title>
+    <title>Welcome to Farmers' Choice</title>
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
